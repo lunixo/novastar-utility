@@ -2,7 +2,8 @@
 
 With this command line tool you can test a Novastar MCTRL300 and control the brightness.
 
-### Requirements 
+### Requirements
+- Linux
 - python3
 - pyserial 
 
